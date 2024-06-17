@@ -1,2 +1,2 @@
 # First-React-App-Start
-Created with CodeSandbox
+A small app with for buttons which uses React. 
